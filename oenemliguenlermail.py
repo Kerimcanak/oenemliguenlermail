@@ -34,7 +34,7 @@ def generate_message(name):
     elif today.month == 5 and today.day == 1:
         return f"Sayın, {name}, 1 Mayıs İşçi Bayramınız kutlu olsun!"
     elif today.month == 5 and today.day == 19:
-        return f"Sayın, {name}, 19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramınız kutlu olsun!"
+        return f"Sayın, {name}, 19 Mayıs Atatürk’ü Anma günü."
     elif today.month == 7 and today.day == 15:
         return f"Sayın, {name}, 15 Temmuz Milli Birlik ve Demokrasi Gününüz kutlu olsun!"
     elif today.month == 8 and today.day == 30:
